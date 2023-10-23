@@ -33,3 +33,5 @@ Many enterprises use VPC to connect to their on-premises data center, creating a
 ## Why Use VPC?
 
 Organizations turn to VPCs to ensure a higher level of security and isolation for their cloud-based applications. It grants them the flexibility to design their virtual networking environment as if they were operating their own data center, but without the associated costs of physical hardware.
+
+![Benefits of VPC](https://www.atatus.com/glossary/content/images/size/w1600/2022/08/Benefits-of-VPC.png)
