@@ -6,6 +6,8 @@ VPC is a service that lets users provision a logically isolated section of the c
 
 A virtual private cloud (VPC) is an on-demand configurable pool of shared resources allocated within a public cloud environment, providing a certain level of isolation between the different organizations (denoted as users hereafter) using the resources.
 
+![VPC](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Virtual_Private_Cloud_%28VPC%29.svg/700px-Virtual_Private_Cloud_%28VPC%29.svg.png)
+
 ## Key Features of VPC
 
 ### 1. **Isolation and Security**:
