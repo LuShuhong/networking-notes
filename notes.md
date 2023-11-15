@@ -6,6 +6,8 @@ VPC is a service that lets users provision a logically isolated section of the c
 
 A virtual private cloud (VPC) is an on-demand configurable pool of shared resources allocated within a public cloud environment, providing a certain level of isolation between the different organizations (denoted as users hereafter) using the resources.
 
+![VPC](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Virtual_Private_Cloud_%28VPC%29.svg/700px-Virtual_Private_Cloud_%28VPC%29.svg.png)
+
 ## Key Features of VPC
 
 ### 1. **Isolation and Security**:
@@ -31,3 +33,5 @@ Many enterprises use VPC to connect to their on-premises data center, creating a
 ## Why Use VPC?
 
 Organizations turn to VPCs to ensure a higher level of security and isolation for their cloud-based applications. It grants them the flexibility to design their virtual networking environment as if they were operating their own data center, but without the associated costs of physical hardware.
+
+![Benefits of VPC](https://www.atatus.com/glossary/content/images/size/w1600/2022/08/Benefits-of-VPC.png)
