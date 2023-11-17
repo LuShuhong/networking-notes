@@ -28,3 +28,5 @@ Imagine an online store split into different services: one for logging in, one f
 - **Scaling:** N-tier often means scaling the whole cake, while microservices let you add more to just the dishes that need it.
 - **Updates:** Microservices are about quick, continuous updates. N-tier updates can feel like baking a new cake each time.
 - **Tech Flexibility:** Microservices let you use different tech for different services, while N-tier is like using the same recipe for the whole cake.
+
+![micro-service diagram](https://learn.microsoft.com/en-us/azure/architecture/includes/images/microservices-logical.png)
